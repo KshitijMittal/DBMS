@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Auto detect binary files and prevent them from being modified.
+*.sql linguist-detectable=true
